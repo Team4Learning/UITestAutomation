@@ -4,7 +4,7 @@
 	<parameter name="browser" value="chrome" />
 	<parameter name="gridUrl" value="http://localhost:4444/wd/hub" />
 		<classes>
-			<class name="UIAutomation.utilities.TestA1" />
+			<class name="UIAutomation.com.tests.TestA1" />
 		</classes>
 	</test>
 </suite>
