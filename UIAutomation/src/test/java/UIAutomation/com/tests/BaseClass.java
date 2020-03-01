@@ -1,4 +1,4 @@
-package UIAutomation.utilities;
+package UIAutomation.com.tests;
 
 import java.net.MalformedURLException;
 import java.net.URL;
