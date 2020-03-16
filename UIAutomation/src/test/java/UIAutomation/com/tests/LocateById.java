@@ -29,7 +29,7 @@ public class LocateById {
 	public void LocateByXPath() throws InterruptedException {
 
 		// Absolute xpath for news tab in the yahoo home page
-		WebElement ele1 = driver.findElement(By.xpath("/html/body/div[2]/div/div/div/div/div/div/div[2]/ul/li[3]/a"));
+		WebElement ele1 = driver.findElement(By.xpath("//*[@id='header-nav-bar']/li[3]/a"));
 
 		ele1.click();
 
